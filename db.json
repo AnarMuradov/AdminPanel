@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvjUJN0F5eetZZ5em9QOaptM8Up2-GSeu8LA&usqp=CAU",
+      "name": "Surikat",
+      "job": "teamleader"
+    },
+    {
+      "id": 2,
+      "img": "https://i1.sndcdn.com/artworks-000095872526-r7p00i-t500x500.jpg",
+      "name": "LordLezgin",
+      "job": "svarwik"
+    },
+    {
+      "id": 3,
+      "img": "https://i.pinimg.com/564x/81/a9/b7/81a9b7e5b26cdbc6db313c780305c8c3.jpg",
+      "name": "Axi",
+      "job": "ui/ux designer"
+    },
+    {
+      "id": 4,
+      "img": "https://c1.wallpaperflare.com/preview/622/538/508/coffee-apple-macbook-pro-java-cafe-caffeine.jpg",
+      "name": "Arif",
+      "job": "htmlstructor"
+    }
+  ]
+}
